@@ -1,0 +1,19 @@
+{
+  "name": "https-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "url": "0.11.0",
+    "http-proxy": "1.18.1",
+    "http-proxy-middleware": "1.0.6",
+    "https": "1.0.0",
+    "express": "4.17.1",
+    "cors": "2.8.5"
+  }
+}
